@@ -1,4 +1,4 @@
-## **Canon Entry: The Ticklish Issue About Genealogy**
+## **[Canon](https://ukb-dt.github.io/gnosis/) [Entry](https://ukb-dt.github.io/shadow/): The Ticklish Issue About Genealogy**
 
 ---
 
