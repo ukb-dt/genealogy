@@ -243,29 +243,45 @@ Would you like me to draft a compact **ukb-fractal table** version of this, so g
 **Cross-references:** Eliot's recursive return, Ship of Theseus, apostolic succession, constitutional drift
 
 # C
-Yes—this is ripe for a ukb-fractal embed. Genealogy naturally lives at the **Σ → h(t)** seam (compression → agon), since succession crises are literally where a compressed claim (“I embody the pattern”) collides with contest (“prove it, or lose it”). Here’s a compact table form, canon-spine style:
+
+Perfect—let’s slot your historical test cases directly into the **ukb-fractal genealogy table** so the canon becomes recursive, not just abstract. Watch how they line up:
 
 ---
 
-## **ukb-fractal: Genealogy**
+## **ukb-fractal: Genealogy (with Historical Test Cases)**
 
-| Ontology (Tree)           | Epistemology (Calculus) | Genealogical Mode                                        | Example                                           | Failure Mode                     |
-| ------------------------- | ----------------------- | -------------------------------------------------------- | ------------------------------------------------- | -------------------------------- |
-| **Soil (θ′)** raw scatter | (x, y)                  | Ancestral variance (many potential heirs, myths, rumors) | Tribes before kings, oral tradition               | Entropy: forgotten lineages      |
-| **Roots (θ)** encoding    | y(x)                    | Encoded legitimacy (laws, rites, bloodline)              | Apostolic succession, dynastic law                | Over-rigid codes, drift          |
-| **Trunk (Σ)** compression | dy/dx                   | Claim to authority (pattern embodied in node)            | Monarch, pope, CEO-founder                        | Bottleneck, throne fossilization |
-| **Branches (h(t))** agon  | d²y/dx²                 | Succession crisis (contest over claim)                   | Sunni/Shia split, Reformation, impeachment trials | Collapse into schism or cult     |
-| **Canopy (ΔS)** ledger    | ∫ y dx                  | Posterior reseeding (does fruit scatter or fossilize?)   | Amendments, forks, denominations                  | Mausoleum effect: tomb not tree  |
-
----
-
-### **Canon Echo**
-
-* **Fractal genealogies** thrive when the *branches* (h(t)) reseed the *soil* (θ′). They embrace agon, survive founder’s death, and keep climbing.
-* **Singular genealogies** lock the trunk and try to freeze the ladder into a throne. They avoid agon, and when the trunk snaps, the canopy rots.
+| Ontology (Tree)           | Epistemology (Calculus) | Genealogical Mode                          | Example                                                                     | Survival / Failure                          |
+| ------------------------- | ----------------------- | ------------------------------------------ | --------------------------------------------------------------------------- | ------------------------------------------- |
+| **Soil (θ′)** scatter     | (x, y)                  | Origin myth, ancestral variance            | *"We the People"*, Jesus-event, Muhammad’s charisma, Marx’s theory          | Founder as singular spark                   |
+| **Roots (θ)** encoding    | y(x)                    | Encoded legitimacy (text, ritual, law)     | Bible, Qur’an, US Constitution, Das Kapital                                 | Encoding stabilizes beyond founder          |
+| **Trunk (Σ)** compression | dy/dx                   | Claim to authority (node embodies pattern) | Pope as Peter’s heir, Lenin as Marx’s heir, Trump as MAGA                   | Throne risk: bottleneck                     |
+| **Branches (h(t))** agon  | d²y/dx²                 | Succession contest, crisis of lineage      | Sunni vs Shia, Protestant Reformation, Constitutional crises                | Either schism → reseeding, or cult collapse |
+| **Canopy (ΔS)** ledger    | ∫ y dx                  | Posterior reseeding (fruit vs tomb)        | Christianity fractalizes into churches; Constitution amended; Bitcoin forks | Fractal = orchard, Singular = mausoleum     |
 
 ---
 
-This table turns your prose canon into a structural diagnostic. Genealogy isn’t just history—it’s calculus. Encoding (roots), compression (trunk), agon (branches), and reseeding (canopy) are the same operators as in physics, biology, and code. Succession is just the Ship of Theseus written in blood, law, and memory.
+### **Slotting the Test Cases**
+
+* **Christianity**: Singular trunk (Jesus) → fractal branches (apostles, scripture) → survives via constant reseeding (schisms, reforms).
+* **Islam**: Singular trunk (Muhammad) → agon at branches (Sunni/Shia) → both survive, pattern persists fractally.
+* **Buddhism**: Encoded anti-singular (“lamp unto yourself”) → fractal branches from start → survives as orchard.
+* **Marxism-Leninism**: Singular trunk ossifies (Lenin/Stalin) → forced fractalization post-Stalin → partial survival, ossified canopy.
+* **MAGA**: Singular trunk (Trump-as-node) → no clear fractal encoding → TBD: likely mausoleum.
+* **US Constitution**: Fractal by design (encoding + amendment) → agon institutionalized (checks/balances) → orchard canopy, reseeding.
+* **Bitcoin**: Singular founder (Satoshi) → deliberate disappearance → pattern forced into fractal forks → orchard canopy.
+
+---
+
+### **Canonical Wrap**
+
+This now locks genealogy into the **Σ → h(t) seam** of your ukb-fractal.
+
+* **Roots (θ):** encode pattern into text/law.
+* **Trunk (Σ):** compress authority into a node.
+* **Branches (h(t)):** agon contests succession.
+* **Canopy (ΔS):** ledger shows whether fruit reseeds or fossilizes.
+
+The recursive lesson: **Every genealogy is judged at the branches.** Agon is unavoidable. The only question is whether the contest reseeds soil (orchard) or calcifies trunk (tomb).
+ 
 
 Do you want me to extend this same table style to your **historical test cases** (Christianity, Islam, US Constitution, MAGA, etc.) so they slot right in under Σ → h(t)? That would make the canon fully recursive.
