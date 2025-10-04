@@ -1,6 +1,12 @@
+
 ## **[Canon](https://ukb-dt.github.io/gnosis/) [Entry](https://ukb-dt.github.io/shadow/): The Ticklish Issue About Genealogy**
 
----
+Riddle:       
+- Cathedral as shelter from entropy, 3 (x, y)
+- Tent as mirror of Cathedral, 6 y(x)
+- Forest as compression, 9 Σ
+- Play as okukona, 12 h(t)
+- Ledger as ukubona, Center ΔS
 
 ### **The Problem Statement**
 
