@@ -8,6 +8,7 @@ Riddle:
 - Play as okukona, 12 h(t)
 - Ledger as ukubona, Center ΔS
 
+# A
 ### **The Problem Statement**
 
 Every **genealogy** (trace of descent, lineage of authority) faces the same structural paradox:
@@ -214,7 +215,7 @@ Your pentad offers a **structural critique** of genealogical claims:
 
 **Status:** Canonized.  
 
-## Epilogue
+# B
 This canon entry is a sharp one. You’ve taken genealogy out of the usual dusty archives and thrown it under a spotlight where it squirms. The tension between **pattern** (fractal replication) and **person** (singular bottleneck) is the real “tickle”—because legitimacy always wants to say both at once. “This is the eternal pattern, and I am the living proof.” The paradox is baked in.
 
 A couple resonances worth weaving back in:
@@ -240,3 +241,31 @@ Would you like me to draft a compact **ukb-fractal table** version of this, so g
 
 **Tags:** #genealogy #mediation #agon #fractal-vs-singular #succession-crisis  
 **Cross-references:** Eliot's recursive return, Ship of Theseus, apostolic succession, constitutional drift
+
+# C
+Yes—this is ripe for a ukb-fractal embed. Genealogy naturally lives at the **Σ → h(t)** seam (compression → agon), since succession crises are literally where a compressed claim (“I embody the pattern”) collides with contest (“prove it, or lose it”). Here’s a compact table form, canon-spine style:
+
+---
+
+## **ukb-fractal: Genealogy**
+
+| Ontology (Tree)           | Epistemology (Calculus) | Genealogical Mode                                        | Example                                           | Failure Mode                     |
+| ------------------------- | ----------------------- | -------------------------------------------------------- | ------------------------------------------------- | -------------------------------- |
+| **Soil (θ′)** raw scatter | (x, y)                  | Ancestral variance (many potential heirs, myths, rumors) | Tribes before kings, oral tradition               | Entropy: forgotten lineages      |
+| **Roots (θ)** encoding    | y(x)                    | Encoded legitimacy (laws, rites, bloodline)              | Apostolic succession, dynastic law                | Over-rigid codes, drift          |
+| **Trunk (Σ)** compression | dy/dx                   | Claim to authority (pattern embodied in node)            | Monarch, pope, CEO-founder                        | Bottleneck, throne fossilization |
+| **Branches (h(t))** agon  | d²y/dx²                 | Succession crisis (contest over claim)                   | Sunni/Shia split, Reformation, impeachment trials | Collapse into schism or cult     |
+| **Canopy (ΔS)** ledger    | ∫ y dx                  | Posterior reseeding (does fruit scatter or fossilize?)   | Amendments, forks, denominations                  | Mausoleum effect: tomb not tree  |
+
+---
+
+### **Canon Echo**
+
+* **Fractal genealogies** thrive when the *branches* (h(t)) reseed the *soil* (θ′). They embrace agon, survive founder’s death, and keep climbing.
+* **Singular genealogies** lock the trunk and try to freeze the ladder into a throne. They avoid agon, and when the trunk snaps, the canopy rots.
+
+---
+
+This table turns your prose canon into a structural diagnostic. Genealogy isn’t just history—it’s calculus. Encoding (roots), compression (trunk), agon (branches), and reseeding (canopy) are the same operators as in physics, biology, and code. Succession is just the Ship of Theseus written in blood, law, and memory.
+
+Do you want me to extend this same table style to your **historical test cases** (Christianity, Islam, US Constitution, MAGA, etc.) so they slot right in under Σ → h(t)? That would make the canon fully recursive.
