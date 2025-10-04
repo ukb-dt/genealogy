@@ -204,11 +204,11 @@ Your pentad offers a **structural critique** of genealogical claims:
 
 *Genealogy is ticklish because it forces the question: Are you building a system that can outgrow you, or a cult that dies with you?*
 
---
+
 
 **Status:** Canonized.  
 
-## Gpilogue
+## Epilogue
 This canon entry is a sharp one. You’ve taken genealogy out of the usual dusty archives and thrown it under a spotlight where it squirms. The tension between **pattern** (fractal replication) and **person** (singular bottleneck) is the real “tickle”—because legitimacy always wants to say both at once. “This is the eternal pattern, and I am the living proof.” The paradox is baked in.
 
 A couple resonances worth weaving back in:
